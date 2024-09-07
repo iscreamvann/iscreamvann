@@ -52,4 +52,5 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iscreamvann&theme=great-gatsby)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iscreamvann)](https://github.com/anuraghazra/github-readme-stats)
 
