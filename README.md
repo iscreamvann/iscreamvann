@@ -22,10 +22,17 @@
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the U.K.
 </div>
 
-- :telescope: I’m looking for work as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m looking for work as a Software Engineer, so I can contribute to frontend and backend, for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. Or I'm fishing and eating good food.
 
 - :mailbox:How to reach me:      [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-vann-84b673324/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
