@@ -28,4 +28,4 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me:      [![Linkedin Badge](https://img.shields.io/badge/-Kyle-Vann-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-vann-84b673324/)
+- :mailbox:How to reach me:      [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-vann-84b673324/)
